@@ -21,6 +21,7 @@
 
 /* ボタンのデザイン */
 .button {
+    width: 25%;
     text-decoration: none;
     padding: 10px 15px;
     background-color: #007BFF;
